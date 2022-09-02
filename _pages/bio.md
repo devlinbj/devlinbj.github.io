@@ -16,7 +16,7 @@ I graduated from The Pennsylvania State University in 1986, after which I had a 
 
 # Specific Research Interests
 
-My research has two major foci: the development or refinement of statistical methods for the analysis of genetic data; the implementation of such methods to discover the genetic basis of disease and related phenotypes; and placing these findings in neurobiology. My work has been recognized by admission as a fellow to the American Association for the Advancement of Science, Statistics Section.
+My research has three major foci: the development or refinement of statistical methods for the analysis of genetic data; the implementation of such methods to discover the genetic basis of disease and related phenotypes; and placing these findings in neurobiology. My work has been recognized by admission as a fellow to the American Association for the Advancement of Science, Statistics Section.
 
 
 
