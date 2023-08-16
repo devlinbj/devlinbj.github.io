@@ -11,7 +11,7 @@ redirect_from:
 
 # Bio
 
-I graduated from The Pennsylvania State University in 1986, after which I had a post-doc appintment at the University of California, Riverside. Since then I worked as a biostatistician and research faculty in the Division of Biostatistics, Yale University School of Medicine (1990-1994), had a visiting appointment in Carnegie Mellon University, Department of Statistics (1995-1996), and have since been a faculty member of the University of Pittsburgh School of Medicine (Psychiatry). I have been working in the field of human genetics for the past 32 years and in psychiatric genetics for the past 25 years.
+I graduated from The Pennsylvania State University in 1986, after which I had a post-doc appointment at the University of California, Riverside. Previously I worked as a biostatistician and research faculty in the Division of Biostatistics, Yale University School of Medicine (1990-1994), had a visiting appointment in Carnegie Mellon University, Department of Statistics (1995-1996), and since 1997 been a faculty member of the University of Pittsburgh School of Medicine (Psychiatry). I have been working in the field of human genetics for the past 33 years and in psychiatric genetics for the past 26 years.
 
 
 # Specific Research Interests
